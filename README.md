@@ -123,7 +123,7 @@ The project leverages exploratory data analysis (EDA) and machine learning model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CampusPlacementPrediction.git
+   git clone https://github.com/Farook269/Campus_Placement_Prediction.git
    cd CampusPlacementPrediction
    ```
 
